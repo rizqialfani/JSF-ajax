@@ -4,12 +4,12 @@ Learn Ajax with JavaServer Faces development environment.
 ## Overview
 ### ajax
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/JSF-ajax/master/screenshot/ajax.png' width='600'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/JSF-ajax/master/screenshot/ajax.png' width='750'>
 </p>
 
 ### ajax-exercises
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/JSF-ajax/master/screenshot/ajax-exercise.png' width='600'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/JSF-ajax/master/screenshot/ajax-exercise.png' width='750'>
 </p>
 
 ## Source
